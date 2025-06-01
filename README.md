@@ -6,3 +6,8 @@
 
 このリポジトリは、GitやGitHubの使い方、開発フローを学ぶための練習として書いています。
 まだまだ勉強中ですが、少しずつ成長していけたらと思っています。よろしくお願いします！
+
+TODO
+
+Add links to Dev.to and Zenn.
+Clean up duplicate JPNS and ENGL
