@@ -12,3 +12,5 @@ TODO
 Add links to Dev.to and Zenn.
 Clean up duplicate JPNS and ENGL
 Make plan for Linux study
+
+figure out sprite sheet
