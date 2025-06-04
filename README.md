@@ -14,3 +14,5 @@ Clean up duplicate JPNS and ENGL
 Make plan for Linux study
 
 figure out sprite sheet
+
+Go to hello work - look into vocational training
